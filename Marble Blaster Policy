@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy – Marble Blaster</title>
+</head>
+<body>
+<h1>Privacy Policy for Marble Blaster</h1>
+
+<p><strong>Last updated:</strong> November 19, 2025</p>
+
+<h2>1. Introduction</h2>
+<p>
+Marble Blaster is a puzzle and action game designed for users ages 6 and up, including teens and adults. 
+We respect the privacy of all players and are committed to providing a safe and secure gaming experience. 
+This privacy policy explains what information the app uses and how it is handled. We comply with the 
+Google Play Developer Program Policies, the Families Policy Requirements, and Google Play’s 
+<strong>Data Safety</strong> rules.
+</p>
+
+<h2>2. Information We Collect</h2>
+<p>
+Marble Blaster includes an optional <strong>online leaderboard</strong> that allows players to compare 
+scores with others. To support this feature, the game collects only the minimal information required 
+for leaderboard functionality.
+</p>
+
+<p>The app collects the following data:</p>
+<ul>
+  <li><strong>Anonymous Player ID</strong> – A randomly generated identifier that cannot be used 
+      to identify the user personally.</li>
+  <li><strong>Leaderboard Scores</strong> – High scores, rankings, and achievement data.</li>
+  <li><strong>Gameplay Data</strong> – Basic progress data such as levels completed or best times.</li>
+</ul>
+
+<p>
+This information is stored securely in the cloud to enable leaderboard updates and synchronization.
+It is linked only to the anonymous player ID.
+</p>
+
+<p>
+<strong>No personal information is collected.</strong><br>
+We do <strong>not</strong> collect names, emails, phone numbers, photos, real-world location, device 
+identifiers, or any sensitive data from users of any age.
+</p>
+
+<h2>3. How Information Is Used</h2>
+<p>The collected data is used solely for:</p>
+<ul>
+  <li>Displaying your score and rank on the game leaderboard</li>
+  <li>Saving gameplay progress</li>
+  <li>Synchronizing progress across devices (if supported)</li>
+</ul>
+
+<p>
+The data is never used for advertising, tracking, analytics, or profiling.
+</p>
+
+<h2>4. Information We Do NOT Collect</h2>
+<p>Marble Blaster does <strong>not</strong> collect or request:</p>
+<ul>
+  <li>Names or contact information</li>
+  <li>Email addresses</li>
+  <li>Precise or approximate location data</li>
+  <li>Device identifiers (Android ID, IP address, advertising ID)</li>
+  <li>Photos, videos, microphone access, or any media</li>
+  <li>Contacts, messages, or files</li>
+  <li>Biometric or health information</li>
+  <li>Analytics or usage tracking</li>
+  <li>Personal information from children, teens, or adults</li>
+</ul>
+
+<h2>5. Third-Party Services</h2>
+<p>
+Marble Blaster does <strong>not</strong> include ads, analytics SDKs, social media logins, or 
+tracking technologies. No personal data is shared with third parties.
+</p>
+
+<p>
+If cloud services or servers are used to maintain leaderboard functions, they are used solely to 
+store anonymous IDs and score data. No personal data is ever transferred.
+</p>
+
+<h2>6. Users Ages 6 and Older</h2>
+<p>
+Marble Blaster is suitable for players ages 6 and above. The game is designed to ensure safety 
+for younger players while remaining enjoyable for teens and adults. Since the app does not 
+collect personal information, it is appropriate and safe for children under the Families Policy 
+requirements.
+</p>
+
+<p>
+Leaderboard entries use <strong>anonymous IDs only</strong> to ensure the privacy of users of all ages.
+</p>
+
+<h2>7. Permissions</h2>
+<p>
+Marble Blaster may request the following permissions:
+</p>
+<ul>
+  <li><strong>INTERNET</strong> – Required to submit and retrieve leaderboard information.</li>
+  <li><strong>ACCESS_NETWORK_STATE</strong> – Used to check whether an internet connection is available.</li>
+</ul>
+
+<p>No other permissions are requested.</p>
+
+<h2>8. Internet Use</h2>
+<p>
+The game can be played offline. Internet access is required only for:
+</p>
+<ul>
+  <li>Submitting leaderboard scores</li>
+  <li>Displaying leaderboard rankings</li>
+  <li>Optional cloud progress sync</li>
+</ul>
+
+<h2>9. Data Security</h2>
+<p>
+All stored data is protected with industry-standard security measures. Only anonymous player IDs 
+and game-related data (not personal information) are stored. This information cannot be linked to 
+a real-world identity.
+</p>
+
+<h2>10. Changes to This Privacy Policy</h2>
+<p>
+If we modify this Privacy Policy, the “Last Updated” date will be changed. Updates will remain 
+available for review.
+</p>
+
+<h2>11. Contact Us</h2>
+<p>
+If you have any questions about this Privacy Policy, please contact us:<br>
+<strong>Email:</strong> issa.christopher@protonmail.com
+</p>
+
+</body>
+</html>
